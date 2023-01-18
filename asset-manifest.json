@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ottimi2/static/css/main.073c9b0a.css",
+    "main.js": "/ottimi2/static/js/main.6fdc0b68.js",
+    "static/js/787.c58962a1.chunk.js": "/ottimi2/static/js/787.c58962a1.chunk.js",
+    "static/media/logo.svg": "/ottimi2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ottimi2/index.html",
+    "main.073c9b0a.css.map": "/ottimi2/static/css/main.073c9b0a.css.map",
+    "main.6fdc0b68.js.map": "/ottimi2/static/js/main.6fdc0b68.js.map",
+    "787.c58962a1.chunk.js.map": "/ottimi2/static/js/787.c58962a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6fdc0b68.js"
+  ]
+}
